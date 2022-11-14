@@ -3,7 +3,7 @@
 // @namespace    Custom coin ratio
 // @version      0.1
 // @description  FDV/MarketCap ratio script
-// @author       Mogdrogen
+// @author       Solael
 // @match        *://coinmarketcap.com/currencies/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=coinmarketcap.com
 // @grant        none
